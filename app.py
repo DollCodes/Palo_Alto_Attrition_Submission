@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
 )
 
-DATA_PATH = "data/Palo Alto Networks.csv"
+DATA_PATH = "Palo Alto Networks.csv"
 
 
 @st.cache_data
